@@ -1,0 +1,2 @@
+model,stock,entire_exp_time,avg_test_metric1,std_test_metric1,avg_test_metric2,std_test_metric2,avg_test_metric3,std_test_metric3
+transformer,KS11,12.921115159988403,40.02958428205777,4.892656716476775,48.23447842330144,5.485495316735079,0.018939753857601726,0.0029543989350182716
